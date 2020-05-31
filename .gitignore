@@ -1,0 +1,6 @@
+**/__pycache__
+**.egg-info
+.idea
+.vscode
+.ipynb_checkpoints
+**/.DS_Store
